@@ -1,4 +1,1 @@
-routes:
-  user-ms: /u/**
-  role-ms: /r/**
-test: 4399
+ routes: "{'user-ms': '/u/**', 'role-ms': '/r/**'}"
