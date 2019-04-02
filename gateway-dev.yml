@@ -1,3 +1,4 @@
 routes:
   user-ms: /u/**
   role-ms: /r/**
+test: 4399
