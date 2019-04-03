@@ -1,1 +1,1 @@
- routes: "{'user-ms': '/u/**', 'role-ms': '/r/**'}"
+ routes: "{'user-ms': '/user/**', 'role-ms': '/role/**'}"
